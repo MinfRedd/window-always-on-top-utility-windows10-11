@@ -50,10 +50,10 @@ All windows modified by this utility will automatically lose their Always On Top
 1. Install Python 3 (if not already installed)
 2. Run:
 
-The program runs in the background and listens for hotkeys.
+
 
 ---
 
 ## Disclaimer
-
+The program runs in the background and listens for hotkeys.
 This utility is intended for productivity and window management purposes only.
