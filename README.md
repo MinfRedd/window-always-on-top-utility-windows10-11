@@ -55,5 +55,5 @@ All windows modified by this utility will automatically lose their Always On Top
 ---
 
 ## Disclaimer
-The program runs in the background and listens for hotkeys.
-This utility is intended for productivity and window management purposes only.
+-The program runs in the background and listens for hotkeys.
+-This utility is intended for productivity and window management purposes only.
